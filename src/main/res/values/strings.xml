@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteAverageCalculator</string>
+    <string name="exam1">1. sınav notunuzu giriniz</string>
+    <string name="exam2">2. sınav notunuzu giriniz</string>
+    <string name="calculate">Hesapla</string>
+    <string name="resultText">Sonuç</string>
+</resources>
